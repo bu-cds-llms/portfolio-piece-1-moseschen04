@@ -8,6 +8,7 @@
 
 ## Key Results
  - Word2Vec is good at discovering intent based on the embeddings of the words, most likely because the words used in these scenarios are in the most common usages.
+ - It is able to determine intent from similar words because of the similarity matrix.
 
 ## How to Run
  - Notebook and install dataset
