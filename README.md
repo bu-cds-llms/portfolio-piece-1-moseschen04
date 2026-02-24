@@ -11,6 +11,7 @@
 
 ## How to Run
  - Notebook and install dataset
+ - https://www.kaggle.com/datasets/bitext/bitext-gen-ai-chatbot-customer-support-dataset
 
 ## Tech
  - Word2Vec, Numpy, Gensim, SKLearn, Pandas, Re
