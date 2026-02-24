@@ -1,3 +1,22 @@
+## Customer Service Chatbot
+
+## Problem
+ - I am trying to create a customer service chatbot that is able to fulfill requests automatically. I wanted to experiment with different datasets to see how Word2Vec behaves.
+
+## Methodology
+ - I used Word2Vec because even though it has a rigid understanding of semantics/word definitions, in a customer service setting, people typically have a set amount of intents.
+
+## Key Results
+ - Word2Vec is good at discovering intent based on the embeddings of the words, most likely because the words used in these scenarios are in the most common usages.
+
+## How to Run
+ - Notebook and install dataset
+
+## Tech
+ - Word2Vec, Numpy, Gensim, SKLearn, Pandas, Re
+
+
+
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/brKTKdOU)
 # Portfolio Piece Assignment
 
@@ -80,3 +99,6 @@ You are *not* grading each other's pieces, just providing feedback.
 ## Questions?
 
 We can discuss more in class, in office hours, in discussion, and you can ask on Piazza.
+
+
+
